@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# C/C++
+*.o
+*.obj
+*.exe
+
+# CMake/build directories
+build/
+build_deps/
+CMakeFiles/
+
+# Misc
+.DS_Store
